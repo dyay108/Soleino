@@ -1,0 +1,2 @@
+include ':app', ':droid2ino'
+project(':droid2ino').projectDir = new File('subProject/droid2ino/droid2ino')
